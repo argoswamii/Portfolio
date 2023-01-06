@@ -52,8 +52,6 @@ export default function Home() {
 					  I gathered knowledge on various domains from many sources. I have developed skills in
             <span className="text-teal-500"> Web development</span> and <span className="text-teal-500">Data structure and Algorithms</span>. I joined coding blocks to improve and enhance my skills on DSA.</p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              I offer from a wide range of services, including brand design,
-              programming and teaching.
             </p>
           </div>
         </section>
